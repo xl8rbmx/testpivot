@@ -1,2 +1,2 @@
 #!/usr/bin/env python
-print "How are ya?"
+print "integ w/ auto system. yep, that's it"
